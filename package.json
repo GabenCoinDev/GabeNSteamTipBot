@@ -1,0 +1,20 @@
+{
+    "name": "GabenNCoinSteamTipBot",
+    "version": "0.0.1",
+    "description": "Tip Gamers on Steam with GabeN Coin",
+    "keywords": ["GabenNCoinSteamTipBot"],
+    "repository": "https://github.com/GabenCoinDev/GabeNSteamTipBot.git",
+    "author": "Ryan Petschek",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+    "node-gabencoin": "*",
+    "mongodb": "1.4.5",
+    "typescript-compiler": "*",
+    "async": "0.9.0",
+    "cheerio": "0.16.0",
+    "numeral": "1.5.3",
+    "request": "2.36.0",
+    "srcds-rcon": "1.1.5",
+	"steam": "0.6.6"
+  }
+}
